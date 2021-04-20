@@ -1,0 +1,2 @@
+Eduard Kotanjyan
+REACT REDUX COMMENTS APP
